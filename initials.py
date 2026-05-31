@@ -11,10 +11,10 @@
 
 # On my honor, Henry Boadu Nana Osei, this programming assignment is my own work and I have not provided this code to any other student.
 
-def main():
-  print()
-print("..HBNO")
-print()
+def main(): #prints my initials in large styled 
+  print()    #empty space
+print("..HBNO") #prints small initials
+print()       #empty space
 print("...HHH......HHH........BBBBBBBBBBB.........NNN......NNN........OOOOOOOOOOOO.....")
 print("...HHH......HHH........BBB......BBB........NNN......NNN........OOO......OOO.....")
 print("...HHH......HHH........BBB......BBB........NNNN.....NNN........OOO......OOO.....")
